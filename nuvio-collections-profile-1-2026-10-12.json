@@ -101,10 +101,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "Netflix",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/netflix-1.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Netflix/netflix-1.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/Netflix-1.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/Netflix.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Netflix/Netflix-1.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Netflix/Netflix.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -144,7 +144,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/Netflix-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Netflix/Netflix-2.webp"
       },
       {
         "id": "folder-026f9699",
@@ -244,10 +244,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/hbo-max-Animation.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/HBO/hbo-max-Animation.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/HBO-max-alt.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/HBO-Max.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/HBO/HBO-max-alt.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/HBO/HBO-Max.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -287,7 +287,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/HBO-Max-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/HBO/HBO-Max-2.webp"
       },
       {
         "id": "folder-6c9c5ab1",
@@ -387,10 +387,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/apple-tv.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Apple%20TV/apple-tv.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/Apple-TV-1-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/Apple-TV-1.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Apple%20TV/Apple-TV-1-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Apple%20TV/Apple-TV-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -430,7 +430,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/Apple-TV.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Apple%20TV/Apple-TV.webp"
       },
       {
         "id": "folder-63613533",
@@ -530,10 +530,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/disney-plus.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Disney/disney-plus.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/Disney-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/Disney.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Disney/Disney-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Disney/Disney.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -573,7 +573,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/Disney-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Disney/Disney-3.webp"
       },
       {
         "id": "folder-061f482c",
@@ -673,10 +673,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/prime-video.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Prime%20Video/prime-video.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/Prime.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/amazon-prime-video-logo-blue-black.jpg.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Prime%20Video/Prime.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Prime%20Video/amazon-prime-video-logo-blue-black.jpg.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -716,7 +716,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/prime-vid-o.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Prime%20Video/prime-vid-o.webp"
       },
       {
         "id": "folder-b68743b4",
@@ -786,10 +786,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/canal-gif-2.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Canal/canal-gif-2.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/Canal-white.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/Canal.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Canal/Canal-white.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Canal/Canal.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -817,7 +817,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/Canal-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Canal/Canal-2.webp"
       },
       {
         "id": "folder-d2e0f211",
@@ -917,10 +917,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/Paramount.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Paramount/Paramount.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/Paramount.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/paramount-plus-1400x825.jpg",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Paramount/Paramount.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Paramount/paramount-plus-1400x825.jpg",
         "catalogSources": [
           {
             "type": "Films",
@@ -960,7 +960,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/paramount-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Paramount/paramount-2.webp"
       },
       {
         "id": "folder-b3cee4b9",
@@ -1045,10 +1045,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.gif",
+        "focusGifUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll-1.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll-1.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll.webp",
         "catalogSources": [
           {
             "type": "Anime",
@@ -1082,7 +1082,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll-2.webp"
       }
     ],
     "pinToTop": true,
@@ -1180,8 +1180,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Top%20Semaine/Top-de-la-semaine.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Top%20Semaine/top-semaine.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Top%20Semaine/Top-de-la-semaine.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Top%20Semaine/top-semaine.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1215,7 +1215,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Top%20Semaine/t2_flat_1080p.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Top%20Semaine/t2_flat_1080p.jpg"
       },
       {
         "id": "8f6797d1-3657-481b-ad60-821682590bc8",
@@ -1317,8 +1317,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/nouveaute/Nouveaut-s-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/nouveaute/nouveaut-s.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/nouveaute/Nouveaut-s-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/nouveaute/nouveaut-s.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1358,7 +1358,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/nouveaute/t2_flat_1080p-2.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/nouveaute/t2_flat_1080p-2.jpg"
       },
       {
         "id": "a98521f0-6ddb-4d87-a708-fb5eb4895206",
@@ -1445,8 +1445,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/tendance/Tendances-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/tendance/tendances.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/tendance/Tendances-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/tendance/tendances.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1480,7 +1480,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/tendance/t2_flat_1080p-3.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/tendance/t2_flat_1080p-3.jpg"
       },
       {
         "id": "6aba2d33-099f-4f3a-9038-c4573f7a019a",
@@ -1567,8 +1567,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/populaire/Populaires-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/populaire/populaires.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/populaire/Populaires-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/populaire/populaires.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1602,7 +1602,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/populaire/t2_flat_1080p-4.jpg"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/populaire/t2_flat_1080p-4.jpg"
       },
       {
         "id": "9a5ae324-8ee6-43a9-83dd-9cefba2f0e3e",
@@ -1689,8 +1689,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mieux%20note/Mieux-not-s-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mieux%20note/mieux-not-s.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mieux%20note/Mieux-not-s-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mieux%20note/mieux-not-s.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1724,7 +1724,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mieux%20note/mieux-not-s-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mieux%20note/mieux-not-s-3.webp"
       }
     ],
     "pinToTop": false,
@@ -1837,8 +1837,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/action/Action.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/action/action-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/action/Action.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/action/action-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1878,7 +1878,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/action/action-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/action/action-2.webp"
       },
       {
         "id": "6fdc7c0e-e925-4d1c-b997-03b062ea00d2",
@@ -1980,8 +1980,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/Animation.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/animation-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/animation/Animation.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/animation/animation-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2021,7 +2021,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/animation-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/animation/animation-2.webp"
       },
       {
         "id": "a8e3c5c0-5da6-45cb-9653-97d026690a26",
@@ -2123,8 +2123,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/aventure/Aventure-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/aventure/aventure.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/aventure/Aventure-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/aventure/aventure.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2164,7 +2164,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/aventure/aventure-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/aventure/aventure-3.webp"
       },
       {
         "id": "6a3b0a19-c87b-4da4-ab01-7d8c27857ac9",
@@ -2266,8 +2266,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/comedie/Com-die-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/comedie/com-die.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/comedie/Com-die-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/comedie/com-die.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2307,7 +2307,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/comedie/comedie.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/comedie/comedie.webp"
       },
       {
         "id": "b05d5394-9ca2-4505-9465-0879fb5c9cdf",
@@ -2409,8 +2409,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/crime/Crime.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/crime/crime-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/crime/Crime.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/crime/crime-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2450,7 +2450,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/crime/crime-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/crime/crime-2.webp"
       },
       {
         "id": "3192daf3-9b6e-4108-99d6-a005e0ada560",
@@ -2552,8 +2552,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/documentaire/Documentaire-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/documentaire/documentaire.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/documentaire/Documentaire-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/documentaire/documentaire.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2593,7 +2593,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/documentaire/documentaire-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/documentaire/documentaire-3.webp"
       },
       {
         "id": "81dc892a-dc91-4b08-8bd0-a70ee64e7985",
@@ -2695,8 +2695,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/drame/Drame-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/drame/drame.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/drame/Drame-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/drame/drame.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2736,7 +2736,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/drame/drame-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/drame/drame-3.webp"
       },
       {
         "id": "26f53334-bcb8-412d-b0f8-7a4db9dc95c3",
@@ -2838,8 +2838,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/famille/Familial2-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/famille/familial2.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/famille/Familial2-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/famille/familial2.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2879,7 +2879,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/famille/Familial.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/famille/Familial.webp"
       },
       {
         "id": "eb48adac-d642-447f-b506-63b5c40f6c86",
@@ -2981,8 +2981,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fantastique/Fantastique-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fantastique/fantastique.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fantastique/Fantastique-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fantastique/fantastique.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3022,7 +3022,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fantastique/fantastique-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fantastique/fantastique-3.webp"
       },
       {
         "id": "7c276fb7-9cfe-4f06-932b-6a5934603c1e",
@@ -3079,8 +3079,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/francais/Fran-ais.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/francais/fran-ais2.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/francais/Fran-ais.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/francais/fran-ais2.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3102,7 +3102,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/francais/Fran-ais-films.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/francais/Fran-ais-films.webp"
       },
       {
         "id": "f02d713b-c579-4807-ba4d-496385112aeb",
@@ -3204,8 +3204,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/guerre%20politique/Guerre-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/guerre%20politique/guerre.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/guerre%20politique/Guerre-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/guerre%20politique/guerre.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3245,7 +3245,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/guerre%20politique/Guerre-politique.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/guerre%20politique/Guerre-politique.webp"
       },
       {
         "id": "9fc8f311-5ad7-409b-a34b-b72e664a78d7",
@@ -3332,8 +3332,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/histoire/Histoire-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/histoire/Histoire.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/histoire/Histoire-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/histoire/Histoire.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3367,7 +3367,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/histoire/Histoire-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/histoire/Histoire-3.webp"
       },
       {
         "id": "b966f6a4-745c-441b-8fb9-5917a8ddf079",
@@ -3454,8 +3454,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/horreur/Horreur-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/horreur/horreur.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/horreur/Horreur-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/horreur/horreur.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3489,7 +3489,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/horreur/horreur-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/horreur/horreur-3.webp"
       },
       {
         "id": "d93f1100-026d-41fe-8399-1b1c9c9aa8ca",
@@ -3561,8 +3561,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/k%20drama/K-Drama-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/k%20drama/K-Drama.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3590,7 +3590,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/k%20drama/K-Drama-3.webp"
       },
       {
         "id": "e9aebd3f-4d36-4963-bcd1-d1181f6b9570",
@@ -3662,8 +3662,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/musique/Musique-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/musique/musique.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/musique/Musique-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/musique/musique.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3691,7 +3691,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/musique/Musique-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/musique/Musique-3.webp"
       },
       {
         "id": "eaf7d9e7-3bac-4e79-9b62-e89ba6d5b826",
@@ -3793,8 +3793,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mystere/Myst-re-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mystere/myst-re.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mystere/Myst-re-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mystere/myst-re.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3834,7 +3834,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mystere/myst-re-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mystere/myst-re-3.webp"
       },
       {
         "id": "6dc80949-3653-4e57-84de-19b5acd6a07d",
@@ -3861,8 +3861,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/noel/Noel.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/noel/No-l2.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/noel/Noel.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/noel/No-l2.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3872,7 +3872,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/noel/Noel-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/noel/Noel-2.webp"
       },
       {
         "id": "45dce469-e4ef-4d8e-8323-1499b34e7a60",
@@ -3959,8 +3959,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/romance/Romance.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/romance/romance-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/romance/Romance.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/romance/romance-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3994,7 +3994,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/romance/romance-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/romance/romance-2.webp"
       },
       {
         "id": "cdbe9996-622e-4b10-a785-510390ce4d87",
@@ -4096,8 +4096,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/sci%20fi/Sci-Fi.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/sci%20fi/sci-fi-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/sci%20fi/Sci-Fi.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/sci%20fi/sci-fi-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4137,7 +4137,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/sci%20fi/Sci-Fi-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/sci%20fi/Sci-Fi-2.webp"
       },
       {
         "id": "1ea7b7ee-885e-445f-8d44-734141992470",
@@ -4209,8 +4209,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/super%20heros/Super-h-ros-vilains-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/super%20heros/Super-h-ros-Vilains.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/super%20heros/Super-h-ros-vilains-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/super%20heros/Super-h-ros-Vilains.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4238,7 +4238,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/super%20heros/Super-Heros.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/super%20heros/Super-Heros.webp"
       },
       {
         "id": "c338496a-dae1-47aa-9bac-24b61c46a698",
@@ -4325,8 +4325,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/thriller/Thriller.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/thriller/thriller-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/thriller/Thriller.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/thriller/thriller-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4360,7 +4360,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/thriller/Thriller-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/thriller/Thriller-2.webp"
       },
       {
         "id": "cb162c11-b85c-4ee8-8040-20db0e5dec3f",
@@ -4462,8 +4462,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/westerns/westerns.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/westerns/westerns-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4503,7 +4503,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/westerns/westerns-2.webp"
       }
     ],
     "pinToTop": false,
@@ -4601,8 +4601,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-Films-Logo.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/kids-films-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20films/Kids-Films-Logo.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20films/kids-films-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4636,7 +4636,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-films-hero.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20films/Kids-films-hero.webp"
       },
       {
         "id": "395c6a81-1243-4d7f-857a-ead4d097c3c3",
@@ -4693,8 +4693,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/Kids-Series-Logo.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20series/Kids-Series-Logo.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20series/kids-series-wide.webp",
         "catalogSources": [
           {
             "type": "series",
@@ -4716,7 +4716,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-hero.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20series/kids-series-hero.webp"
       },
       {
         "id": "2dca1551-9fba-4cd0-988b-711e84c6dc86",
@@ -4833,8 +4833,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-logo.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/anime-wide.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/anime/Anim-logo.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/anime/anime-wide.webp",
         "catalogSources": [
           {
             "type": "Anime",
@@ -4880,7 +4880,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-hero.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/anime/Anim-hero.webp"
       }
     ],
     "pinToTop": false,
@@ -4933,8 +4933,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2020/2020s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2020/20s-3-D-1.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2020/2020s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2020/20s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4950,7 +4950,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2020/2020s-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2020/2020s-2.webp"
       },
       {
         "id": "d3e5fdd4-d575-412c-b306-0a1d8de45612",
@@ -4992,8 +4992,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2010/2010s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2010/10s-3-D-1.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2010/2010s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2010/10s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5009,7 +5009,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2010/2010s-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2010/2010s-2.webp"
       },
       {
         "id": "b15079e3-9883-4c32-990c-db5a1c7aca38",
@@ -5051,8 +5051,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2000/2000s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2000/00s-3-D-1.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2000/2000s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2000/00s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5068,7 +5068,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2000/2000s-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2000/2000s-2.webp"
       },
       {
         "id": "3e170b45-5b68-4103-bf8b-d03550181cf8",
@@ -5110,8 +5110,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1990/1990s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1990/90s-3-D-1.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1990/1990s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1990/90s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5127,7 +5127,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1990/1990s-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1990/1990s-2.webp"
       },
       {
         "id": "ccfc856a-71fe-448f-838d-8747ca853af9",
@@ -5169,8 +5169,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1980/1980s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1980/80s-3-D-1.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1980/1980s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1980/80s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5186,7 +5186,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1980/1980s-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1980/1980s-2.webp"
       },
       {
         "id": "c905fe1d-0695-4857-8b6b-824d6fff4073",
@@ -5228,8 +5228,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1970/1970s.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1970/70s-3-D-1.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1970/1970s.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1970/70s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5245,7 +5245,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1970/1970s-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1970/1970s-2.webp"
       }
     ],
     "pinToTop": false,
@@ -5283,8 +5283,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/avatar/avatar-logo.png",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/avatar/avatar.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/avatar/avatar-logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/avatar/avatar.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5294,7 +5294,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/avatar/avatar-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/avatar/avatar-2.webp"
       },
       {
         "id": "7328af14-12f2-4b60-8307-737a83a678ac",
@@ -5411,8 +5411,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dc/DC-1.png",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dc/DC-Comics.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dc/DC-1.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dc/DC-Comics.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5458,7 +5458,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dc/DC-Comics-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dc/DC-Comics-2.webp"
       },
       {
         "id": "a24d8856-1344-4ade-ac88-b436d7df0ff7",
@@ -5485,8 +5485,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dune/dune-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dune/dune.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dune/dune-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dune/dune.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5496,7 +5496,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dune/dune-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dune/dune-3.webp"
       },
       {
         "id": "a3c64c5a-ae0d-4daa-8873-fd0aca2129e9",
@@ -5523,8 +5523,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fast%20and%20furious/fast-and-Furious-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fast%20and%20furious/fast-and-furious.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fast%20and%20furious/fast-and-Furious-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fast%20and%20furious/fast-and-furious.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5534,7 +5534,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fast%20and%20furious/fast-and-Furious-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fast%20and%20furious/fast-and-Furious-3.webp"
       },
       {
         "id": "4294ea89-b933-4c60-aec2-c1ae665f1016",
@@ -5576,8 +5576,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/harry%20potter/Harry-Potter.png",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/harry%20potter/harry-potter.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/harry%20potter/Harry-Potter.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/harry%20potter/harry-potter.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5593,7 +5593,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/harry%20potter/Harry-Potter-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/harry%20potter/Harry-Potter-2.webp"
       },
       {
         "id": "96e59207-5059-4f0c-a5df-868798b7f901",
@@ -5635,8 +5635,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/hunger%20games/hunger-Games-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/hunger%20games/hunger-games.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/hunger%20games/hunger-Games-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/hunger%20games/hunger-games.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5652,7 +5652,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/hunger%20games/Hunger-Games-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/hunger%20games/Hunger-Games-3.webp"
       },
       {
         "id": "57e01329-3ffb-4028-8f08-34766a6e76f3",
@@ -5679,8 +5679,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/indiana%20jones/Indiana-Jones-logo.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/indiana%20jones/indiana-jones.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/indiana%20jones/Indiana-Jones-logo.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/indiana%20jones/indiana-jones.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5690,7 +5690,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/indiana%20jones/Indiana-Jones-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/indiana%20jones/Indiana-Jones-2.webp"
       },
       {
         "id": "fc9d0ea3-9e87-4021-9761-b59737cf54c2",
@@ -5717,8 +5717,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/james%20bond/007-Logo.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/james%20bond/james-bond.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/james%20bond/007-Logo.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/james%20bond/james-bond.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5728,7 +5728,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/james%20bond/James-Bond-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/james%20bond/James-Bond-2.webp"
       },
       {
         "id": "4037c44f-b3cf-4bdf-819d-9385ac511dcc",
@@ -5755,8 +5755,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/john%20wick/John-Wick-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/john%20wick/john-wick.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/john%20wick/John-Wick-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/john%20wick/john-wick.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5766,7 +5766,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/john%20wick/John-Wick-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/john%20wick/John-Wick-3.webp"
       },
       {
         "id": "24c0a210-5d51-4564-84cd-ddaad906fde8",
@@ -5793,8 +5793,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/jurassic%20park/Jurassic-Park-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/jurassic%20park/jurassic-park.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/jurassic%20park/Jurassic-Park-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/jurassic%20park/jurassic-park.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5804,7 +5804,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/jurassic%20park/Jurassic-Park-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/jurassic%20park/Jurassic-Park-3.webp"
       },
       {
         "id": "86e930d2-f9a1-40a5-ae7d-7a1f98827336",
@@ -5846,8 +5846,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/seigneur%20des%20anneaux/seigneur-des-anneaux-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/seigneur%20des%20anneaux/seigneur-des-anneaux.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/seigneur%20des%20anneaux/seigneur-des-anneaux-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/seigneur%20des%20anneaux/seigneur-des-anneaux.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5863,7 +5863,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/seigneur%20des%20anneaux/seigneur-des-anneaux-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/seigneur%20des%20anneaux/seigneur-des-anneaux-3.webp"
       },
       {
         "id": "dc0c1699-08df-4869-81dc-8e148e84c38d",
@@ -5950,8 +5950,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/marvel/Marvel-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/marvel/marvel-1.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/marvel/Marvel-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/marvel/marvel-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5985,7 +5985,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/marvel/marvel.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/marvel/marvel.webp"
       },
       {
         "id": "cf9150ff-a391-43db-be0a-298ceff644f3",
@@ -6012,8 +6012,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/matrix/Matrix-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/matrix/matrix.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/matrix/Matrix-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/matrix/matrix.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6023,7 +6023,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/matrix/Matrix-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/matrix/Matrix-3.webp"
       },
       {
         "id": "62181eaa-f71c-41c1-8fe8-9f3c0ff4a4be",
@@ -6050,8 +6050,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mission%20impossible/Mission-impossible-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mission%20impossible/mission-impossible.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mission%20impossible/Mission-impossible-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mission%20impossible/mission-impossible.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6061,7 +6061,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mission%20impossible/Mission-impossible-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mission%20impossible/Mission-impossible-3.webp"
       },
       {
         "id": "be5b86df-b884-479a-b5b7-9fda0d07b4c4",
@@ -6088,8 +6088,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/monsterverse/monsterverse.png",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/monsterverse/monsterverse.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/monsterverse/monsterverse.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/monsterverse/monsterverse.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6099,7 +6099,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/monsterverse/monsterverse-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/monsterverse/monsterverse-2.webp"
       },
       {
         "id": "86e06f37-3530-4e52-858b-329619aec4ae",
@@ -6126,8 +6126,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/pirate%20des%20caraibes/pirates-des-cara-bes-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/pirate%20des%20caraibes/pirates-des-cara-bes.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/pirate%20des%20caraibes/pirates-des-cara-bes-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/pirate%20des%20caraibes/pirates-des-cara-bes.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6137,7 +6137,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/pirate%20des%20caraibes/Pirates-des-Cara-bes-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/pirate%20des%20caraibes/Pirates-des-Cara-bes-3.webp"
       },
       {
         "id": "f8abde78-471e-4e01-836d-c1d70575228f",
@@ -6164,8 +6164,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rambo/rambo-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rambo/rambo.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rambo/rambo-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rambo/rambo.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6175,7 +6175,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rambo/Rambo-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rambo/Rambo-3.webp"
       },
       {
         "id": "aa18fecb-569e-42a7-9873-02df67c7764c",
@@ -6202,8 +6202,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/retour%20vers%20le%20futur/Retour-vers-le-futur-Logo.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/retour%20vers%20le%20futur/retour-vers-le-futur.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/retour%20vers%20le%20futur/Retour-vers-le-futur-Logo.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/retour%20vers%20le%20futur/retour-vers-le-futur.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6213,7 +6213,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/retour%20vers%20le%20futur/retour-vers-le-futur-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/retour%20vers%20le%20futur/retour-vers-le-futur-2.webp"
       },
       {
         "id": "f0b6b1ad-a60f-453e-b42d-e005b20d3a01",
@@ -6255,8 +6255,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rocky/Rocky-Logo.png",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rocky/rocky.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rocky/Rocky-Logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rocky/rocky.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6272,7 +6272,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rocky/Rocky-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rocky/Rocky-2.webp"
       },
       {
         "id": "c3634476-9a42-4e99-a50f-4a04ba56fdab",
@@ -6314,8 +6314,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20trek/Star-trek-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20trek/star-trek.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20trek/Star-trek-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20trek/star-trek.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -6331,7 +6331,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20trek/Star-trek-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20trek/Star-trek-3.webp"
       },
       {
         "id": "239fd6ca-ed2b-482e-8545-17ffc84c52dd",
@@ -6388,8 +6388,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20wars/Star-Wars-Logo.png",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20wars/star-wars.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20wars/Star-Wars-Logo.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20wars/star-wars.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -6411,7 +6411,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20wars/Star-Wars-2.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20wars/Star-Wars-2.webp"
       },
       {
         "id": "591659c8-1bf4-4b00-b81a-6f5452653080",
@@ -6453,8 +6453,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/transformers/transformers-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/transformers/transformers.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/transformers/transformers-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/transformers/transformers.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -6470,7 +6470,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/transformers/transformers-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/transformers/transformers-3.webp"
       },
       {
         "id": "c710bb38-ab16-4a9b-836a-629674784e2f",
@@ -6527,8 +6527,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/x%20men/x-men-2.webp",
-        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/x%20men/x-men.webp",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/x%20men/x-men-2.webp",
+        "coverImageUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/x%20men/x-men.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -6550,7 +6550,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/x%20men/X-Men-3.webp"
+        "heroBackdropUrl": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/x%20men/X-Men-3.webp"
       }
     ],
     "pinToTop": false,

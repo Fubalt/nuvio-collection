@@ -73,7 +73,7 @@ explicit_slots = {
     }
 }
 
-CDN_BASE = 'https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/'
+RAW_BASE = 'https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/'
 
 total_slots_updated = 0
 folder_results = []
@@ -104,7 +104,7 @@ for col in data:
             else:
                 img = non_gifs[0]
             quoted = urllib.parse.quote(f'{dname}/{img}', safe='/')
-            folder['coverImageUrl'] = CDN_BASE + quoted
+            folder['coverImageUrl'] = RAW_BASE + quoted
             res['coverImageUrl'] = img
             total_slots_updated += 1
             
@@ -115,7 +115,7 @@ for col in data:
             else:
                 img = non_gifs[1] if len(non_gifs) > 1 else non_gifs[0]
             quoted = urllib.parse.quote(f'{dname}/{img}', safe='/')
-            folder['titleLogoUrl'] = CDN_BASE + quoted
+            folder['titleLogoUrl'] = RAW_BASE + quoted
             res['titleLogoUrl'] = img
             total_slots_updated += 1
             
@@ -126,7 +126,7 @@ for col in data:
             else:
                 img = non_gifs[2] if len(non_gifs) > 2 else non_gifs[-1]
             quoted = urllib.parse.quote(f'{dname}/{img}', safe='/')
-            folder['heroBackdropUrl'] = CDN_BASE + quoted
+            folder['heroBackdropUrl'] = RAW_BASE + quoted
             res['heroBackdropUrl'] = img
             total_slots_updated += 1
             
@@ -135,7 +135,7 @@ for col in data:
             if gifs:
                 img = gifs[0]
                 quoted = urllib.parse.quote(f'{dname}/{img}', safe='/')
-                folder['focusGifUrl'] = CDN_BASE + quoted
+                folder['focusGifUrl'] = RAW_BASE + quoted
                 res['focusGifUrl'] = img
                 total_slots_updated += 1
                 
