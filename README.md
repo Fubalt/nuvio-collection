@@ -1,6 +1,6 @@
 # 🎬 Nuvio Collection Assets
 
-Pack de **199 images, bannières et logos** prêts à l'emploi pour personnaliser vos collections **Nuvio**.
+Pack de **209 images, bannières et logos** prêts à l'emploi pour personnaliser vos collections **Nuvio**.
 
 ## ⚡ Comment utiliser les liens ?
 
@@ -288,6 +288,33 @@ Ouvrez [`index.html`](index.html) dans votre navigateur pour parcourir toutes le
 | <img src="westerns/westerns.webp" height="40"> | `westerns.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns.webp) |
 
 
+### Kids/Animé
+
+#### Anime
+
+| Aperçu | Fichier | Format | Lien Direct (CDN) |
+| :---: | :--- | :---: | :--- |
+| <img src="anime/Anim-hero.webp" height="40"> | `Anim-hero.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-hero.webp) |
+| <img src="anime/Anim-logo.webp" height="40"> | `Anim-logo.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-logo.webp) |
+| <img src="anime/anime-wide.webp" height="40"> | `anime-wide.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/anime-wide.webp) |
+
+#### Kids films
+
+| Aperçu | Fichier | Format | Lien Direct (CDN) |
+| :---: | :--- | :---: | :--- |
+| <img src="kids films/Kids-Films-Logo.webp" height="40"> | `Kids-Films-Logo.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-Films-Logo.webp) |
+| <img src="kids films/Kids-films-hero.webp" height="40"> | `Kids-films-hero.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-films-hero.webp) |
+| <img src="kids films/kids-films-wide.webp" height="40"> | `kids-films-wide.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/kids-films-wide.webp) |
+
+#### Kids series
+
+| Aperçu | Fichier | Format | Lien Direct (CDN) |
+| :---: | :--- | :---: | :--- |
+| <img src="kids series/Kids-Series-Logo.webp" height="40"> | `Kids-Series-Logo.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/Kids-Series-Logo.webp) |
+| <img src="kids series/kids-series-hero.webp" height="40"> | `kids-series-hero.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-hero.webp) |
+| <img src="kids series/kids-series-wide.webp" height="40"> | `kids-series-wide.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-wide.webp) |
+
+
 ### Plateformes Streaming
 
 #### Apple tv
@@ -314,6 +341,7 @@ Ouvrez [`index.html`](index.html) dans votre navigateur pour parcourir toutes le
 | :---: | :--- | :---: | :--- |
 | <img src="Crunchyroll/Crunchyroll-1.webp" height="40"> | `Crunchyroll-1.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll-1.webp) |
 | <img src="Crunchyroll/Crunchyroll-2.webp" height="40"> | `Crunchyroll-2.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll-2.webp) |
+| <img src="Crunchyroll/Crunchyroll.gif" height="40"> | `Crunchyroll.gif` | `GIF` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.gif) |
 | <img src="Crunchyroll/Crunchyroll.webp" height="40"> | `Crunchyroll.webp` | `WEBP` | [Lien CDN](https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.webp) |
 
 #### Disney

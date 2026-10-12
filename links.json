@@ -248,6 +248,13 @@
         "format": "WEBP"
       },
       {
+        "filename": "Crunchyroll.gif",
+        "rel_path": "Crunchyroll/Crunchyroll.gif",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.gif",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll.gif",
+        "format": "GIF"
+      },
+      {
         "filename": "Crunchyroll.webp",
         "rel_path": "Crunchyroll/Crunchyroll.webp",
         "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.webp",
@@ -503,6 +510,33 @@
         "rel_path": "animation/animation-wide.webp",
         "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/animation-wide.webp",
         "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/animation/animation-wide.webp",
+        "format": "WEBP"
+      }
+    ]
+  },
+  {
+    "category": "anime",
+    "group": "Kids/Animé",
+    "images": [
+      {
+        "filename": "Anim-hero.webp",
+        "rel_path": "anime/Anim-hero.webp",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-hero.webp",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/anime/Anim-hero.webp",
+        "format": "WEBP"
+      },
+      {
+        "filename": "Anim-logo.webp",
+        "rel_path": "anime/Anim-logo.webp",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-logo.webp",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/anime/Anim-logo.webp",
+        "format": "WEBP"
+      },
+      {
+        "filename": "anime-wide.webp",
+        "rel_path": "anime/anime-wide.webp",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/anime-wide.webp",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/anime/anime-wide.webp",
         "format": "WEBP"
       }
     ]
@@ -1097,6 +1131,60 @@
         "rel_path": "k drama/K-Drama.webp",
         "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama.webp",
         "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/k%20drama/K-Drama.webp",
+        "format": "WEBP"
+      }
+    ]
+  },
+  {
+    "category": "kids films",
+    "group": "Kids/Animé",
+    "images": [
+      {
+        "filename": "Kids-Films-Logo.webp",
+        "rel_path": "kids films/Kids-Films-Logo.webp",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-Films-Logo.webp",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20films/Kids-Films-Logo.webp",
+        "format": "WEBP"
+      },
+      {
+        "filename": "Kids-films-hero.webp",
+        "rel_path": "kids films/Kids-films-hero.webp",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-films-hero.webp",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20films/Kids-films-hero.webp",
+        "format": "WEBP"
+      },
+      {
+        "filename": "kids-films-wide.webp",
+        "rel_path": "kids films/kids-films-wide.webp",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/kids-films-wide.webp",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20films/kids-films-wide.webp",
+        "format": "WEBP"
+      }
+    ]
+  },
+  {
+    "category": "kids series",
+    "group": "Kids/Animé",
+    "images": [
+      {
+        "filename": "Kids-Series-Logo.webp",
+        "rel_path": "kids series/Kids-Series-Logo.webp",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/Kids-Series-Logo.webp",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20series/Kids-Series-Logo.webp",
+        "format": "WEBP"
+      },
+      {
+        "filename": "kids-series-hero.webp",
+        "rel_path": "kids series/kids-series-hero.webp",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-hero.webp",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20series/kids-series-hero.webp",
+        "format": "WEBP"
+      },
+      {
+        "filename": "kids-series-wide.webp",
+        "rel_path": "kids series/kids-series-wide.webp",
+        "cdn_url": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-wide.webp",
+        "raw_url": "https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20series/kids-series-wide.webp",
         "format": "WEBP"
       }
     ]

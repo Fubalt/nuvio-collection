@@ -130,6 +130,10 @@ RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/
 CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll-2.webp
 RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll-2.webp
 
+[Crunchyroll.gif]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.gif
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll.gif
+
 [Crunchyroll.webp]
 CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.webp
 RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll.webp
@@ -265,6 +269,20 @@ RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/animation/an
 [animation-wide.webp]
 CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/animation-wide.webp
 RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/animation/animation-wide.webp
+
+
+=== ANIME (Kids/Animé) ===
+[Anim-hero.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-hero.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/anime/Anim-hero.webp
+
+[Anim-logo.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-logo.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/anime/Anim-logo.webp
+
+[anime-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/anime-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/anime/anime-wide.webp
 
 
 === AVATAR (Sagas & Franchises) ===
@@ -573,6 +591,34 @@ RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/k%20drama/K-
 [K-Drama.webp]
 CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama.webp
 RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/k%20drama/K-Drama.webp
+
+
+=== KIDS FILMS (Kids/Animé) ===
+[Kids-Films-Logo.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-Films-Logo.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20films/Kids-Films-Logo.webp
+
+[Kids-films-hero.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-films-hero.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20films/Kids-films-hero.webp
+
+[kids-films-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/kids-films-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20films/kids-films-wide.webp
+
+
+=== KIDS SERIES (Kids/Animé) ===
+[Kids-Series-Logo.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/Kids-Series-Logo.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20series/Kids-Series-Logo.webp
+
+[kids-series-hero.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-hero.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20series/kids-series-hero.webp
+
+[kids-series-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/kids%20series/kids-series-wide.webp
 
 
 === MARVEL (Sagas & Franchises) ===
