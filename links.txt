@@ -1,0 +1,927 @@
+# NUVIO COLLECTION - DIRECT IMAGE LINKS
+# Repository: https://github.com/Fubalt/nuvio-collection
+
+=== 1970 (Décennies) ===
+[1970s-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1970/1970s-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1970/1970s-2.webp
+
+[1970s.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1970/1970s.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1970/1970s.webp
+
+[70s-3-D-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1970/70s-3-D-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1970/70s-3-D-1.webp
+
+
+=== 1980 (Décennies) ===
+[1980s-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1980/1980s-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1980/1980s-2.webp
+
+[1980s.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1980/1980s.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1980/1980s.webp
+
+[80s-3-D-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1980/80s-3-D-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1980/80s-3-D-1.webp
+
+
+=== 1990 (Décennies) ===
+[1990s-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1990/1990s-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1990/1990s-2.webp
+
+[1990s.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1990/1990s.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1990/1990s.webp
+
+[90s-3-D-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1990/90s-3-D-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/1990/90s-3-D-1.webp
+
+
+=== 2000 (Décennies) ===
+[00s-3-D-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2000/00s-3-D-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2000/00s-3-D-1.webp
+
+[2000s-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2000/2000s-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2000/2000s-2.webp
+
+[2000s.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2000/2000s.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2000/2000s.webp
+
+
+=== 2010 (Décennies) ===
+[10s-3-D-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2010/10s-3-D-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2010/10s-3-D-1.webp
+
+[2010s-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2010/2010s-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2010/2010s-2.webp
+
+[2010s.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2010/2010s.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2010/2010s.webp
+
+
+=== 2020 (Décennies) ===
+[2020s-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2020/2020s-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2020/2020s-2.webp
+
+[2020s.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2020/2020s.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2020/2020s.webp
+
+[20s-3-D-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2020/20s-3-D-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/2020/20s-3-D-1.webp
+
+
+=== APPLE TV (Plateformes Streaming) ===
+[Apple-TV-1-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/Apple-TV-1-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Apple%20TV/Apple-TV-1-2.webp
+
+[Apple-TV-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/Apple-TV-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Apple%20TV/Apple-TV-1.webp
+
+[Apple-TV.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/Apple-TV.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Apple%20TV/Apple-TV.webp
+
+[apple-tv.gif]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/apple-tv.gif
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Apple%20TV/apple-tv.gif
+
+
+=== CANAL (Plateformes Streaming) ===
+[Canal-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/Canal-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Canal/Canal-2.webp
+
+[Canal-white.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/Canal-white.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Canal/Canal-white.webp
+
+[Canal.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/Canal.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Canal/Canal.webp
+
+[canal-gif-2.gif]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/canal-gif-2.gif
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Canal/canal-gif-2.gif
+
+
+=== CRUNCHYROLL (Plateformes Streaming) ===
+[Crunchyroll-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll-1.webp
+
+[Crunchyroll-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll-2.webp
+
+[Crunchyroll.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Crunchyroll/Crunchyroll.webp
+
+
+=== DISNEY (Plateformes Streaming) ===
+[Disney-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/Disney-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Disney/Disney-2.webp
+
+[Disney-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/Disney-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Disney/Disney-3.webp
+
+[Disney.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/Disney.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Disney/Disney.webp
+
+[disney-plus.gif]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/disney-plus.gif
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Disney/disney-plus.gif
+
+
+=== HBO (Plateformes Streaming) ===
+[HBO-Max-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/HBO-Max-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/HBO/HBO-Max-2.webp
+
+[HBO-Max.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/HBO-Max.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/HBO/HBO-Max.webp
+
+[HBO-max-alt.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/HBO-max-alt.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/HBO/HBO-max-alt.webp
+
+[hbo-max-Animation.gif]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/hbo-max-Animation.gif
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/HBO/hbo-max-Animation.gif
+
+
+=== NETFLIX (Plateformes Streaming) ===
+[Netflix-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/Netflix-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Netflix/Netflix-1.webp
+
+[Netflix-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/Netflix-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Netflix/Netflix-2.webp
+
+[Netflix.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/Netflix.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Netflix/Netflix.webp
+
+[netflix-1.gif]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/netflix-1.gif
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Netflix/netflix-1.gif
+
+
+=== PARAMOUNT (Plateformes Streaming) ===
+[Paramount.gif]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/Paramount.gif
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Paramount/Paramount.gif
+
+[Paramount.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/Paramount.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Paramount/Paramount.webp
+
+[paramount-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/paramount-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Paramount/paramount-2.webp
+
+[paramount-plus-1400x825.jpg]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/paramount-plus-1400x825.jpg
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Paramount/paramount-plus-1400x825.jpg
+
+
+=== PRIME VIDEO (Plateformes Streaming) ===
+[Prime.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/Prime.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Prime%20Video/Prime.webp
+
+[amazon-prime-video-logo-blue-black.jpg.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/amazon-prime-video-logo-blue-black.jpg.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Prime%20Video/amazon-prime-video-logo-blue-black.jpg.webp
+
+[prime-vid-o.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/prime-vid-o.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Prime%20Video/prime-vid-o.webp
+
+[prime-video.gif]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/prime-video.gif
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Prime%20Video/prime-video.gif
+
+
+=== TOP SEMAINE (Genres & Sélections) ===
+[Top-de-la-semaine.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Top%20Semaine/Top-de-la-semaine.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Top%20Semaine/Top-de-la-semaine.webp
+
+[t2_flat_1080p.jpg]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Top%20Semaine/t2_flat_1080p.jpg
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Top%20Semaine/t2_flat_1080p.jpg
+
+[top-semaine.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Top%20Semaine/top-semaine.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/Top%20Semaine/top-semaine.webp
+
+
+=== ACTION (Genres & Sélections) ===
+[Action.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/action/Action.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/action/Action.webp
+
+[action-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/action/action-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/action/action-2.webp
+
+[action-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/action/action-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/action/action-wide.webp
+
+
+=== ANIMATION (Genres & Sélections) ===
+[Animation.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/Animation.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/animation/Animation.webp
+
+[animation-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/animation-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/animation/animation-2.webp
+
+[animation-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/animation-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/animation/animation-wide.webp
+
+
+=== AVATAR (Sagas & Franchises) ===
+[avatar-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/avatar/avatar-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/avatar/avatar-2.webp
+
+[avatar-logo.png]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/avatar/avatar-logo.png
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/avatar/avatar-logo.png
+
+[avatar.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/avatar/avatar.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/avatar/avatar.webp
+
+
+=== AVENTURE (Genres & Sélections) ===
+[Aventure-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/aventure/Aventure-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/aventure/Aventure-2.webp
+
+[aventure-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/aventure/aventure-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/aventure/aventure-3.webp
+
+[aventure.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/aventure/aventure.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/aventure/aventure.webp
+
+
+=== COMEDIE (Genres & Sélections) ===
+[Com-die-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/comedie/Com-die-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/comedie/Com-die-2.webp
+
+[com-die.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/comedie/com-die.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/comedie/com-die.webp
+
+[comedie.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/comedie/comedie.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/comedie/comedie.webp
+
+
+=== CRIME (Genres & Sélections) ===
+[Crime.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/crime/Crime.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/crime/Crime.webp
+
+[crime-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/crime/crime-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/crime/crime-2.webp
+
+[crime-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/crime/crime-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/crime/crime-wide.webp
+
+
+=== DC (Sagas & Franchises) ===
+[DC-1.png]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dc/DC-1.png
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dc/DC-1.png
+
+[DC-Comics-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dc/DC-Comics-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dc/DC-Comics-2.webp
+
+[DC-Comics.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dc/DC-Comics.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dc/DC-Comics.webp
+
+
+=== DOCUMENTAIRE (Genres & Sélections) ===
+[Documentaire-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/documentaire/Documentaire-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/documentaire/Documentaire-2.webp
+
+[documentaire-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/documentaire/documentaire-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/documentaire/documentaire-3.webp
+
+[documentaire.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/documentaire/documentaire.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/documentaire/documentaire.webp
+
+
+=== DRAME (Genres & Sélections) ===
+[Drame-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/drame/Drame-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/drame/Drame-2.webp
+
+[drame-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/drame/drame-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/drame/drame-3.webp
+
+[drame.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/drame/drame.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/drame/drame.webp
+
+
+=== DUNE (Sagas & Franchises) ===
+[dune-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dune/dune-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dune/dune-2.webp
+
+[dune-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dune/dune-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dune/dune-3.webp
+
+[dune.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dune/dune.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/dune/dune.webp
+
+
+=== FAMILLE (Genres & Sélections) ===
+[Familial.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/famille/Familial.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/famille/Familial.webp
+
+[Familial2-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/famille/Familial2-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/famille/Familial2-2.webp
+
+[familial2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/famille/familial2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/famille/familial2.webp
+
+
+=== FANTASTIQUE (Genres & Sélections) ===
+[Fantastique-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fantastique/Fantastique-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fantastique/Fantastique-2.webp
+
+[fantastique-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fantastique/fantastique-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fantastique/fantastique-3.webp
+
+[fantastique.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fantastique/fantastique.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fantastique/fantastique.webp
+
+
+=== FAST AND FURIOUS (Sagas & Franchises) ===
+[fast-and-Furious-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fast%20and%20furious/fast-and-Furious-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fast%20and%20furious/fast-and-Furious-2.webp
+
+[fast-and-Furious-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fast%20and%20furious/fast-and-Furious-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fast%20and%20furious/fast-and-Furious-3.webp
+
+[fast-and-furious.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fast%20and%20furious/fast-and-furious.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/fast%20and%20furious/fast-and-furious.webp
+
+
+=== FRANCAIS (Genres & Sélections) ===
+[Fran-ais-films.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/francais/Fran-ais-films.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/francais/Fran-ais-films.webp
+
+[Fran-ais.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/francais/Fran-ais.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/francais/Fran-ais.webp
+
+[fran-ais2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/francais/fran-ais2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/francais/fran-ais2.webp
+
+
+=== GUERRE POLITIQUE (Genres & Sélections) ===
+[Guerre-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/guerre%20politique/Guerre-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/guerre%20politique/Guerre-2.webp
+
+[Guerre-politique.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/guerre%20politique/Guerre-politique.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/guerre%20politique/Guerre-politique.webp
+
+[guerre.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/guerre%20politique/guerre.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/guerre%20politique/guerre.webp
+
+
+=== HARRY POTTER (Sagas & Franchises) ===
+[Harry-Potter-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/harry%20potter/Harry-Potter-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/harry%20potter/Harry-Potter-2.webp
+
+[Harry-Potter.png]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/harry%20potter/Harry-Potter.png
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/harry%20potter/Harry-Potter.png
+
+[harry-potter.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/harry%20potter/harry-potter.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/harry%20potter/harry-potter.webp
+
+
+=== HISTOIRE (Genres & Sélections) ===
+[Histoire-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/histoire/Histoire-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/histoire/Histoire-2.webp
+
+[Histoire-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/histoire/Histoire-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/histoire/Histoire-3.webp
+
+[Histoire.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/histoire/Histoire.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/histoire/Histoire.webp
+
+
+=== HORREUR (Genres & Sélections) ===
+[Horreur-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/horreur/Horreur-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/horreur/Horreur-2.webp
+
+[horreur-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/horreur/horreur-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/horreur/horreur-3.webp
+
+[horreur.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/horreur/horreur.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/horreur/horreur.webp
+
+
+=== HUNGER GAMES (Sagas & Franchises) ===
+[Hunger-Games-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/hunger%20games/Hunger-Games-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/hunger%20games/Hunger-Games-3.webp
+
+[hunger-Games-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/hunger%20games/hunger-Games-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/hunger%20games/hunger-Games-2.webp
+
+[hunger-games.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/hunger%20games/hunger-games.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/hunger%20games/hunger-games.webp
+
+
+=== INDIANA JONES (Sagas & Franchises) ===
+[Indiana-Jones-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/indiana%20jones/Indiana-Jones-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/indiana%20jones/Indiana-Jones-2.webp
+
+[Indiana-Jones-logo.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/indiana%20jones/Indiana-Jones-logo.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/indiana%20jones/Indiana-Jones-logo.webp
+
+[indiana-jones.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/indiana%20jones/indiana-jones.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/indiana%20jones/indiana-jones.webp
+
+
+=== JAMES BOND (Sagas & Franchises) ===
+[007-Logo.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/james%20bond/007-Logo.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/james%20bond/007-Logo.webp
+
+[James-Bond-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/james%20bond/James-Bond-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/james%20bond/James-Bond-2.webp
+
+[james-bond.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/james%20bond/james-bond.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/james%20bond/james-bond.webp
+
+
+=== JOHN WICK (Sagas & Franchises) ===
+[John-Wick-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/john%20wick/John-Wick-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/john%20wick/John-Wick-2.webp
+
+[John-Wick-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/john%20wick/John-Wick-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/john%20wick/John-Wick-3.webp
+
+[john-wick.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/john%20wick/john-wick.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/john%20wick/john-wick.webp
+
+
+=== JURASSIC PARK (Sagas & Franchises) ===
+[Jurassic-Park-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/jurassic%20park/Jurassic-Park-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/jurassic%20park/Jurassic-Park-2.webp
+
+[Jurassic-Park-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/jurassic%20park/Jurassic-Park-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/jurassic%20park/Jurassic-Park-3.webp
+
+[jurassic-park.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/jurassic%20park/jurassic-park.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/jurassic%20park/jurassic-park.webp
+
+
+=== K DRAMA (Genres & Sélections) ===
+[K-Drama-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/k%20drama/K-Drama-2.webp
+
+[K-Drama-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/k%20drama/K-Drama-3.webp
+
+[K-Drama.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/k%20drama/K-Drama.webp
+
+
+=== MARVEL (Sagas & Franchises) ===
+[Marvel-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/marvel/Marvel-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/marvel/Marvel-2.webp
+
+[marvel-1.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/marvel/marvel-1.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/marvel/marvel-1.webp
+
+[marvel.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/marvel/marvel.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/marvel/marvel.webp
+
+
+=== MATRIX (Sagas & Franchises) ===
+[Matrix-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/matrix/Matrix-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/matrix/Matrix-2.webp
+
+[Matrix-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/matrix/Matrix-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/matrix/Matrix-3.webp
+
+[matrix.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/matrix/matrix.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/matrix/matrix.webp
+
+
+=== MIEUX NOTE (Genres & Sélections) ===
+[Mieux-not-s-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mieux%20note/Mieux-not-s-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mieux%20note/Mieux-not-s-2.webp
+
+[mieux-not-s-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mieux%20note/mieux-not-s-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mieux%20note/mieux-not-s-3.webp
+
+[mieux-not-s.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mieux%20note/mieux-not-s.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mieux%20note/mieux-not-s.webp
+
+
+=== MISSION IMPOSSIBLE (Sagas & Franchises) ===
+[Mission-impossible-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mission%20impossible/Mission-impossible-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mission%20impossible/Mission-impossible-2.webp
+
+[Mission-impossible-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mission%20impossible/Mission-impossible-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mission%20impossible/Mission-impossible-3.webp
+
+[mission-impossible.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mission%20impossible/mission-impossible.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mission%20impossible/mission-impossible.webp
+
+
+=== MONSTERVERSE (Sagas & Franchises) ===
+[monsterverse-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/monsterverse/monsterverse-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/monsterverse/monsterverse-2.webp
+
+[monsterverse.png]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/monsterverse/monsterverse.png
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/monsterverse/monsterverse.png
+
+[monsterverse.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/monsterverse/monsterverse.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/monsterverse/monsterverse.webp
+
+
+=== MUSIQUE (Genres & Sélections) ===
+[Musique-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/musique/Musique-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/musique/Musique-2.webp
+
+[Musique-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/musique/Musique-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/musique/Musique-3.webp
+
+[musique.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/musique/musique.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/musique/musique.webp
+
+
+=== MYSTERE (Genres & Sélections) ===
+[Myst-re-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mystere/Myst-re-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mystere/Myst-re-2.webp
+
+[myst-re-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mystere/myst-re-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mystere/myst-re-3.webp
+
+[myst-re.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mystere/myst-re.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/mystere/myst-re.webp
+
+
+=== NOEL (Genres & Sélections) ===
+[No-l2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/noel/No-l2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/noel/No-l2.webp
+
+[Noel-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/noel/Noel-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/noel/Noel-2.webp
+
+[Noel.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/noel/Noel.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/noel/Noel.webp
+
+
+=== NOUVEAUTE (Genres & Sélections) ===
+[Nouveaut-s-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/nouveaute/Nouveaut-s-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/nouveaute/Nouveaut-s-2.webp
+
+[nouveaut-s.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/nouveaute/nouveaut-s.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/nouveaute/nouveaut-s.webp
+
+[t2_flat_1080p-2.jpg]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/nouveaute/t2_flat_1080p-2.jpg
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/nouveaute/t2_flat_1080p-2.jpg
+
+
+=== PIRATE DES CARAIBES (Sagas & Franchises) ===
+[Pirates-des-Cara-bes-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/pirate%20des%20caraibes/Pirates-des-Cara-bes-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/pirate%20des%20caraibes/Pirates-des-Cara-bes-3.webp
+
+[pirates-des-cara-bes-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/pirate%20des%20caraibes/pirates-des-cara-bes-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/pirate%20des%20caraibes/pirates-des-cara-bes-2.webp
+
+[pirates-des-cara-bes.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/pirate%20des%20caraibes/pirates-des-cara-bes.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/pirate%20des%20caraibes/pirates-des-cara-bes.webp
+
+
+=== POPULAIRE (Genres & Sélections) ===
+[Populaires-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/populaire/Populaires-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/populaire/Populaires-2.webp
+
+[populaires.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/populaire/populaires.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/populaire/populaires.webp
+
+[t2_flat_1080p-4.jpg]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/populaire/t2_flat_1080p-4.jpg
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/populaire/t2_flat_1080p-4.jpg
+
+
+=== RAMBO (Sagas & Franchises) ===
+[Rambo-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rambo/Rambo-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rambo/Rambo-3.webp
+
+[rambo-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rambo/rambo-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rambo/rambo-2.webp
+
+[rambo.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rambo/rambo.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rambo/rambo.webp
+
+
+=== RETOUR VERS LE FUTUR (Sagas & Franchises) ===
+[Retour-vers-le-futur-Logo.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/retour%20vers%20le%20futur/Retour-vers-le-futur-Logo.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/retour%20vers%20le%20futur/Retour-vers-le-futur-Logo.webp
+
+[retour-vers-le-futur-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/retour%20vers%20le%20futur/retour-vers-le-futur-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/retour%20vers%20le%20futur/retour-vers-le-futur-2.webp
+
+[retour-vers-le-futur.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/retour%20vers%20le%20futur/retour-vers-le-futur.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/retour%20vers%20le%20futur/retour-vers-le-futur.webp
+
+
+=== ROCKY (Sagas & Franchises) ===
+[Rocky-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rocky/Rocky-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rocky/Rocky-2.webp
+
+[Rocky-Logo.png]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rocky/Rocky-Logo.png
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rocky/Rocky-Logo.png
+
+[rocky.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rocky/rocky.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/rocky/rocky.webp
+
+
+=== ROMANCE (Genres & Sélections) ===
+[Romance.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/romance/Romance.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/romance/Romance.webp
+
+[romance-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/romance/romance-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/romance/romance-2.webp
+
+[romance-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/romance/romance-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/romance/romance-wide.webp
+
+
+=== SCI FI (Genres & Sélections) ===
+[Sci-Fi-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/sci%20fi/Sci-Fi-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/sci%20fi/Sci-Fi-2.webp
+
+[Sci-Fi.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/sci%20fi/Sci-Fi.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/sci%20fi/Sci-Fi.webp
+
+[sci-fi-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/sci%20fi/sci-fi-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/sci%20fi/sci-fi-wide.webp
+
+
+=== SEIGNEUR DES ANNEAUX (Sagas & Franchises) ===
+[seigneur-des-anneaux-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/seigneur%20des%20anneaux/seigneur-des-anneaux-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/seigneur%20des%20anneaux/seigneur-des-anneaux-2.webp
+
+[seigneur-des-anneaux-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/seigneur%20des%20anneaux/seigneur-des-anneaux-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/seigneur%20des%20anneaux/seigneur-des-anneaux-3.webp
+
+[seigneur-des-anneaux.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/seigneur%20des%20anneaux/seigneur-des-anneaux.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/seigneur%20des%20anneaux/seigneur-des-anneaux.webp
+
+
+=== STAR TREK (Sagas & Franchises) ===
+[Star-trek-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20trek/Star-trek-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20trek/Star-trek-2.webp
+
+[Star-trek-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20trek/Star-trek-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20trek/Star-trek-3.webp
+
+[star-trek.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20trek/star-trek.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20trek/star-trek.webp
+
+
+=== STAR WARS (Sagas & Franchises) ===
+[Star-Wars-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20wars/Star-Wars-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20wars/Star-Wars-2.webp
+
+[Star-Wars-Logo.png]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20wars/Star-Wars-Logo.png
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20wars/Star-Wars-Logo.png
+
+[star-wars.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20wars/star-wars.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/star%20wars/star-wars.webp
+
+
+=== SUPER HEROS (Genres & Sélections) ===
+[Super-Heros.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/super%20heros/Super-Heros.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/super%20heros/Super-Heros.webp
+
+[Super-h-ros-Vilains.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/super%20heros/Super-h-ros-Vilains.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/super%20heros/Super-h-ros-Vilains.webp
+
+[Super-h-ros-vilains-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/super%20heros/Super-h-ros-vilains-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/super%20heros/Super-h-ros-vilains-2.webp
+
+
+=== TENDANCE (Genres & Sélections) ===
+[Tendances-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/tendance/Tendances-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/tendance/Tendances-2.webp
+
+[t2_flat_1080p-3.jpg]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/tendance/t2_flat_1080p-3.jpg
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/tendance/t2_flat_1080p-3.jpg
+
+[tendances.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/tendance/tendances.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/tendance/tendances.webp
+
+
+=== THRILLER (Genres & Sélections) ===
+[Thriller-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/thriller/Thriller-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/thriller/Thriller-2.webp
+
+[Thriller.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/thriller/Thriller.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/thriller/Thriller.webp
+
+[thriller-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/thriller/thriller-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/thriller/thriller-wide.webp
+
+
+=== TRANSFORMERS (Sagas & Franchises) ===
+[transformers-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/transformers/transformers-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/transformers/transformers-2.webp
+
+[transformers-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/transformers/transformers-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/transformers/transformers-3.webp
+
+[transformers.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/transformers/transformers.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/transformers/transformers.webp
+
+
+=== WESTERNS (Genres & Sélections) ===
+[westerns-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/westerns/westerns-2.webp
+
+[westerns-wide.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns-wide.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/westerns/westerns-wide.webp
+
+[westerns.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/westerns/westerns.webp
+
+
+=== X MEN (Sagas & Franchises) ===
+[X-Men-3.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/x%20men/X-Men-3.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/x%20men/X-Men-3.webp
+
+[x-men-2.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/x%20men/x-men-2.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/x%20men/x-men-2.webp
+
+[x-men.webp]
+CDN: https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/x%20men/x-men.webp
+RAW: https://raw.githubusercontent.com/Fubalt/nuvio-collection/main/x%20men/x-men.webp
+
+
