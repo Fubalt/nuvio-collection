@@ -101,10 +101,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "Netflix",
-        "focusGifUrl": "https://i.ibb.co/20qgsy3q/netflix-1.gif",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/netflix-1.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://i.ibb.co/mFBPszMS/Netflix-1.webp",
-        "coverImageUrl": "https://i.ibb.co/7df9dhTd/Netflix.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/Netflix-1.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/Netflix.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -144,7 +144,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.ibb.co/0yNKNSt3/Netflix.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Netflix/Netflix.webp"
       },
       {
         "id": "folder-026f9699",
@@ -244,10 +244,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://i.ibb.co/PGbYn2s5/hbo-max-Animation.gif",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/hbo-max-Animation.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://i.ibb.co/39btvrCn/HBO-max-alt.webp",
-        "coverImageUrl": "https://i.ibb.co/d0VqMZDH/HBO-Max.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/HBO-max-alt.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/HBO-Max.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -287,7 +287,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.ibb.co/rRZNsPq7/HBO-Max.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/HBO/HBO-Max.webp"
       },
       {
         "id": "folder-6c9c5ab1",
@@ -387,10 +387,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://i.ibb.co/M5GVTBTg/apple-tv.gif",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/apple-tv.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://i.ibb.co/JwRjB6Jy/Apple-TV-1.webp",
-        "coverImageUrl": "https://i.ibb.co/SXNBC8kJ/Apple-TV-1.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/Apple-TV-1.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/Apple-TV-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -430,7 +430,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.ibb.co/TBDLkt1Z/Apple-TV.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Apple%20TV/Apple-TV.webp"
       },
       {
         "id": "folder-63613533",
@@ -530,10 +530,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://i.ibb.co/1Ypxr0Gq/disney-plus.gif",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/disney-plus.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://i.ibb.co/1tHC6hSh/Disney.webp",
-        "coverImageUrl": "https://i.ibb.co/rGHBvbPY/Disney.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/Disney.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/Disney.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -573,7 +573,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.ibb.co/1pJr0Vs/Disney.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Disney/Disney.webp"
       },
       {
         "id": "folder-061f482c",
@@ -673,10 +673,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://i.ibb.co/VcfFtLmC/prime-video.gif",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/prime-video.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://i.ibb.co/sdjCLyyG/Prime.webp",
-        "coverImageUrl": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/amazon-prime-video-logo-blue-black.jpg?quality=82&strip=all&w=1600",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/Prime.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/amazon-prime-video-logo-blue-black.jpg.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -716,7 +716,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.ibb.co/Mx2fdNht/prime-vid-o.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Prime%20Video/prime-vid-o.webp"
       },
       {
         "id": "folder-b68743b4",
@@ -786,10 +786,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://i.ibb.co/3YkXVk3s/canal-gif-2.gif",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/canal-gif-2.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://i.ibb.co/gMsF4Mfz/Canal-white.webp",
-        "coverImageUrl": "https://i.ibb.co/qM25yY9s/Canal.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/Canal-white.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/Canal.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -817,7 +817,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.ibb.co/v62RBsHn/Canal.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Canal/Canal.webp"
       },
       {
         "id": "folder-d2e0f211",
@@ -917,10 +917,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://i.ibb.co/Png487w/Paramount.gif",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/Paramount.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://i.ibb.co/tp2YJB2j/Paramount.webp",
-        "coverImageUrl": "https://www.tubefilter.com/wp-content/uploads/2021/01/paramount-plus-1400x825.jpg",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/Paramount.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/paramount-plus-1400x825.jpg",
         "catalogSources": [
           {
             "type": "Films",
@@ -960,7 +960,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.ibb.co/204kLkv2/paramount.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Paramount/Paramount.webp"
       },
       {
         "id": "folder-b3cee4b9",
@@ -1045,10 +1045,10 @@
         "hideTitle": true,
         "tileShape": "LANDSCAPE",
         "coverEmoji": "",
-        "focusGifUrl": "https://i.ibb.co/TMzt6KBK/Crunchyroll.gif",
+        "focusGifUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.gif",
         "heroVideoUrl": "",
-        "titleLogoUrl": "https://i.ibb.co/4wfncGYr/Crunchyroll-1.webp",
-        "coverImageUrl": "https://i.ibb.co/fzzGhCRd/Crunchyroll.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll-1.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.webp",
         "catalogSources": [
           {
             "type": "Anime",
@@ -1082,7 +1082,7 @@
           }
         ],
         "focusGifEnabled": true,
-        "heroBackdropUrl": "https://i.ibb.co/ZzX04Jkx/Crunchyroll.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Crunchyroll/Crunchyroll.webp"
       }
     ],
     "pinToTop": true,
@@ -1180,8 +1180,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/39D8knF2/Top-de-la-semaine.webp",
-        "coverImageUrl": "https://i.ibb.co/Rk3pDXBB/top-semaine.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Top%20Semaine/Top-de-la-semaine.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Top%20Semaine/top-semaine.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1215,7 +1215,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://github.com/bramst0ne/prism-wallpapers/blob/main/collections/curated/popular/backdrops/t2_flat_1080p.jpg?raw=true"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/Top%20Semaine/t2_flat_1080p.jpg"
       },
       {
         "id": "8f6797d1-3657-481b-ad60-821682590bc8",
@@ -1317,8 +1317,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/dwgKKbf2/Nouveaut-s.webp",
-        "coverImageUrl": "https://i.ibb.co/WWDhHBSY/nouveaut-s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/nouveaute/nouveaut-s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/nouveaute/nouveaut-s.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1358,7 +1358,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://github.com/bramst0ne/prism-wallpapers/blob/main/collections/curated/upcoming/backdrops/t2_flat_1080p.jpg?raw=true"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/nouveaute/t2_flat_1080p-2.jpg"
       },
       {
         "id": "a98521f0-6ddb-4d87-a708-fb5eb4895206",
@@ -1445,8 +1445,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/S7w4bt7Q/Tendances.webp",
-        "coverImageUrl": "https://i.ibb.co/HTmCW7r8/tendances.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/tendance/tendances.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/tendance/tendances.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1480,7 +1480,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://github.com/bramst0ne/prism-wallpapers/blob/main/collections/curated/trending/backdrops/t2_flat_1080p.jpg?raw=true"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/tendance/t2_flat_1080p-3.jpg"
       },
       {
         "id": "6aba2d33-099f-4f3a-9038-c4573f7a019a",
@@ -1567,8 +1567,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/hFw7Dj7c/Populaires.webp",
-        "coverImageUrl": "https://i.ibb.co/j9Mjq6WK/populaires.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/populaire/populaires.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/populaire/populaires.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1602,7 +1602,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://github.com/bramst0ne/prism-wallpapers/blob/main/collections/curated/popular/backdrops/t2_flat_1080p.jpg?raw=true"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/populaire/t2_flat_1080p-4.jpg"
       },
       {
         "id": "9a5ae324-8ee6-43a9-83dd-9cefba2f0e3e",
@@ -1689,8 +1689,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/s9Z3XV32/Mieux-not-s.webp",
-        "coverImageUrl": "https://i.ibb.co/DPvDGQfh/mieux-not-s.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mieux%20note/mieux-not-s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mieux%20note/mieux-not-s.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1724,7 +1724,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/KjR2MRRL/mieux-not-s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mieux%20note/mieux-not-s.webp"
       }
     ],
     "pinToTop": false,
@@ -1837,8 +1837,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/5WQ4Bb86/Action.webp",
-        "coverImageUrl": "https://i.ibb.co/60NM9txy/action-wide.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/action/Action.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/action/action-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -1878,7 +1878,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/JWqQHnvG/action.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/action/Action.webp"
       },
       {
         "id": "6fdc7c0e-e925-4d1c-b997-03b062ea00d2",
@@ -1980,8 +1980,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/gMmmDSZb/Animation.webp",
-        "coverImageUrl": "https://i.ibb.co/7d3mmq53/animation-wide.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/Animation.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/animation-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2021,7 +2021,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/4nFj2Pmy/animation.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/animation/Animation.webp"
       },
       {
         "id": "a8e3c5c0-5da6-45cb-9653-97d026690a26",
@@ -2123,8 +2123,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/Pzsx7wkr/Aventure.webp",
-        "coverImageUrl": "https://i.ibb.co/p64bM80x/aventure.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/aventure/aventure.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/aventure/aventure.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2164,7 +2164,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/bRGVf09R/aventure.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/aventure/aventure.webp"
       },
       {
         "id": "6a3b0a19-c87b-4da4-ab01-7d8c27857ac9",
@@ -2266,8 +2266,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/KxR6Jn6R/Com-die.webp",
-        "coverImageUrl": "https://i.ibb.co/JR855wGd/com-die.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/comedie/com-die.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/comedie/com-die.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2307,7 +2307,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/qYTkZ33d/comedie.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/comedie/comedie.webp"
       },
       {
         "id": "b05d5394-9ca2-4505-9465-0879fb5c9cdf",
@@ -2409,8 +2409,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/WWdCnKXD/Crime.webp",
-        "coverImageUrl": "https://i.ibb.co/Ld6BZdsz/crime-wide.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/crime/Crime.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/crime/crime-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2450,7 +2450,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/MY8Cshg/crime.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/crime/Crime.webp"
       },
       {
         "id": "3192daf3-9b6e-4108-99d6-a005e0ada560",
@@ -2552,8 +2552,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/qLkPSdV4/Documentaire.webp",
-        "coverImageUrl": "https://i.ibb.co/dsKQ3frN/documentaire.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/documentaire/documentaire.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/documentaire/documentaire.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2593,7 +2593,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/8g3FKV2w/documentaire.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/documentaire/documentaire.webp"
       },
       {
         "id": "81dc892a-dc91-4b08-8bd0-a70ee64e7985",
@@ -2695,8 +2695,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/67YB80tg/Drame.webp",
-        "coverImageUrl": "https://i.ibb.co/cScXCwbv/drame.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/drame/drame.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/drame/drame.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2736,7 +2736,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/pB2pmzc5/drame.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/drame/drame.webp"
       },
       {
         "id": "26f53334-bcb8-412d-b0f8-7a4db9dc95c3",
@@ -2838,8 +2838,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/jvyFyKss/Familial2.webp",
-        "coverImageUrl": "https://i.ibb.co/B2415hLz/familial2.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/famille/familial2.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/famille/familial2.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -2879,7 +2879,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/bj4c77dT/Familial.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/famille/Familial.webp"
       },
       {
         "id": "eb48adac-d642-447f-b506-63b5c40f6c86",
@@ -2981,8 +2981,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/bMH4RxjX/Fantastique.webp",
-        "coverImageUrl": "https://i.ibb.co/NnsLMVqj/fantastique.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fantastique/fantastique.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fantastique/fantastique.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3022,7 +3022,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/wNjVy6JS/fantastique.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fantastique/fantastique.webp"
       },
       {
         "id": "7c276fb7-9cfe-4f06-932b-6a5934603c1e",
@@ -3079,8 +3079,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/DgC8pTdt/Fran-ais.webp",
-        "coverImageUrl": "https://i.ibb.co/ccSCyNj8/fran-ais2.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/francais/Fran-ais.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/francais/fran-ais2.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3102,7 +3102,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/yFJ247Dm/Fran-ais-films.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/francais/Fran-ais-films.webp"
       },
       {
         "id": "f02d713b-c579-4807-ba4d-496385112aeb",
@@ -3204,8 +3204,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/VWHNrzy2/Guerre.webp",
-        "coverImageUrl": "https://i.ibb.co/Nd1Wkx5t/guerre.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/guerre%20politique/guerre.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/guerre%20politique/guerre.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3245,7 +3245,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/d0Dr8JN3/Guerre-politique.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/guerre%20politique/Guerre-politique.webp"
       },
       {
         "id": "9fc8f311-5ad7-409b-a34b-b72e664a78d7",
@@ -3332,8 +3332,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/sJjKyQtj/Histoire.webp",
-        "coverImageUrl": "https://i.ibb.co/S7tcPt74/Histoire.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/histoire/Histoire.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/histoire/Histoire.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3367,7 +3367,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/MdhjH3H/Histoire.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/histoire/Histoire.webp"
       },
       {
         "id": "b966f6a4-745c-441b-8fb9-5917a8ddf079",
@@ -3454,8 +3454,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/q3S8dkR5/Horreur.webp",
-        "coverImageUrl": "https://i.ibb.co/CpNRrJ3x/horreur.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/horreur/horreur.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/horreur/horreur.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3489,7 +3489,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/XkZZCMbq/horreur.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/horreur/horreur.webp"
       },
       {
         "id": "d93f1100-026d-41fe-8399-1b1c9c9aa8ca",
@@ -3561,8 +3561,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/r2B08WLY/K-Drama.webp",
-        "coverImageUrl": "https://i.ibb.co/Y7tm12gB/K-Drama.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3590,7 +3590,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/RkBLF0CD/K-Drama.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/k%20drama/K-Drama.webp"
       },
       {
         "id": "e9aebd3f-4d36-4963-bcd1-d1181f6b9570",
@@ -3662,8 +3662,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/qV2KF8R/Musique.webp",
-        "coverImageUrl": "https://i.ibb.co/Lzrc6MVy/musique.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/musique/musique.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/musique/musique.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3691,7 +3691,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/DDywXzt9/Musique.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/musique/musique.webp"
       },
       {
         "id": "eaf7d9e7-3bac-4e79-9b62-e89ba6d5b826",
@@ -3793,8 +3793,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/gZK8QZsK/Myst-re.webp",
-        "coverImageUrl": "https://i.ibb.co/fVG4v1Bs/myst-re.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mystere/myst-re.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mystere/myst-re.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3834,7 +3834,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/S7ZBctxV/myst-re.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mystere/myst-re.webp"
       },
       {
         "id": "6dc80949-3653-4e57-84de-19b5acd6a07d",
@@ -3861,8 +3861,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/1J4wMpQB/Noel.webp",
-        "coverImageUrl": "https://i.ibb.co/6c6gyT5W/No-l2.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/noel/Noel.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/noel/No-l2.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3872,7 +3872,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/xSWq7jWh/Noel.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/noel/Noel.webp"
       },
       {
         "id": "45dce469-e4ef-4d8e-8323-1499b34e7a60",
@@ -3959,8 +3959,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/mVF2fvb2/Romance.webp",
-        "coverImageUrl": "https://i.ibb.co/DPg7ctfK/romance-wide.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/romance/Romance.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/romance/romance-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -3994,7 +3994,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/Jjd4FHXN/romance.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/romance/Romance.webp"
       },
       {
         "id": "cdbe9996-622e-4b10-a785-510390ce4d87",
@@ -4096,8 +4096,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/Psnwnky0/Sci-Fi.webp",
-        "coverImageUrl": "https://i.ibb.co/Kjs282s7/sci-fi-wide.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/sci%20fi/Sci-Fi.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/sci%20fi/sci-fi-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4137,7 +4137,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/3m7GD7Z5/Sci-Fi.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/sci%20fi/Sci-Fi.webp"
       },
       {
         "id": "1ea7b7ee-885e-445f-8d44-734141992470",
@@ -4209,8 +4209,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/G3bn8jpF/Super-h-ros-vilains.webp",
-        "coverImageUrl": "https://i.ibb.co/Qvkw6MKF/Super-h-ros-Vilains.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/super%20heros/Super-h-ros-Vilains.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/super%20heros/Super-h-ros-Vilains.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4238,7 +4238,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/FqxdqThg/Super-Heros.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/super%20heros/Super-Heros.webp"
       },
       {
         "id": "c338496a-dae1-47aa-9bac-24b61c46a698",
@@ -4325,8 +4325,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/KcPWVLNp/Thriller.webp",
-        "coverImageUrl": "https://i.ibb.co/Xfdcwpzx/thriller-wide.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/thriller/Thriller.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/thriller/thriller-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4360,7 +4360,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/cch1JnmB/Thriller.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/thriller/Thriller.webp"
       },
       {
         "id": "cb162c11-b85c-4ee8-8040-20db0e5dec3f",
@@ -4462,8 +4462,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/Qv0hybq0/westerns.webp",
-        "coverImageUrl": "https://i.ibb.co/fzdLsgKS/westerns-wide.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4503,7 +4503,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/fGPzyNNJ/westerns.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/westerns/westerns.webp"
       }
     ],
     "pinToTop": false,
@@ -4601,8 +4601,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/rKf4NVkX/Kids-Films.webp",
-        "coverImageUrl": "https://i.ibb.co/Wp0vQWpN/kids-films.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-Films-Logo.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/kids-films-wide.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4636,7 +4636,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/jtBkq1W/Kids-films.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20films/Kids-films-hero.webp"
       },
       {
         "id": "395c6a81-1243-4d7f-857a-ead4d097c3c3",
@@ -4693,8 +4693,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/S488GbPF/Kids-S-ries.webp",
-        "coverImageUrl": "https://i.ibb.co/gZ9P6gVd/kids-s-ries.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/Kids-Series-Logo.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-wide.webp",
         "catalogSources": [
           {
             "type": "series",
@@ -4716,7 +4716,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/FLQHSWbb/kids-s-ries.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/kids%20series/kids-series-hero.webp"
       },
       {
         "id": "2dca1551-9fba-4cd0-988b-711e84c6dc86",
@@ -4833,8 +4833,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/sdv7414t/Anim.webp",
-        "coverImageUrl": "https://i.ibb.co/5hWrJ3L2/anime-wide.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-logo.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/anime-wide.webp",
         "catalogSources": [
           {
             "type": "Anime",
@@ -4880,7 +4880,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/v6L7QnXg/Anim.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/anime/Anim-hero.webp"
       }
     ],
     "pinToTop": false,
@@ -4933,8 +4933,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/RGP0XBSZ/2020s.webp",
-        "coverImageUrl": "https://i.ibb.co/1tzsLdsN/20s-3-D-1.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2020/2020s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2020/20s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -4950,7 +4950,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/rKTWRYcC/2020s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2020/2020s.webp"
       },
       {
         "id": "d3e5fdd4-d575-412c-b306-0a1d8de45612",
@@ -4992,8 +4992,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/HTdLm4KN/2010s.webp",
-        "coverImageUrl": "https://i.ibb.co/XxCWp4GS/10s-3-D-1.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2010/2010s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2010/10s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5009,7 +5009,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/s9MX3mMn/2010s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2010/2010s.webp"
       },
       {
         "id": "b15079e3-9883-4c32-990c-db5a1c7aca38",
@@ -5051,8 +5051,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/ZpRgYz7r/2000s.webp",
-        "coverImageUrl": "https://i.ibb.co/GQ92Kh78/00s-3-D-1.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2000/2000s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2000/00s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5068,7 +5068,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/VYyTb5n0/2000s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/2000/2000s.webp"
       },
       {
         "id": "3e170b45-5b68-4103-bf8b-d03550181cf8",
@@ -5110,8 +5110,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/jPNfK9Fg/1990s.webp",
-        "coverImageUrl": "https://i.ibb.co/8tSmwmq/90s-3-D-1.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1990/1990s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1990/90s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5127,7 +5127,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/5XBmp676/1990s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1990/1990s.webp"
       },
       {
         "id": "ccfc856a-71fe-448f-838d-8747ca853af9",
@@ -5169,8 +5169,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/nNKSrwCz/1980s.webp",
-        "coverImageUrl": "https://i.ibb.co/jPk52zHj/80s-3-D-1.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1980/1980s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1980/80s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5186,7 +5186,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/yrV0MP4/1980s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1980/1980s.webp"
       },
       {
         "id": "c905fe1d-0695-4857-8b6b-824d6fff4073",
@@ -5228,8 +5228,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/wNtjCFsT/1970s.webp",
-        "coverImageUrl": "https://i.ibb.co/LdhczFZy/70s-3-D-1.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1970/1970s.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1970/70s-3-D-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5245,7 +5245,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/JF8nztD6/1970s.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/1970/1970s.webp"
       }
     ],
     "pinToTop": false,
@@ -5283,8 +5283,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/CNvZs9x/avatar-logo.png",
-        "coverImageUrl": "https://i.ibb.co/BVFkMPKr/avatar.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/avatar/avatar-logo.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/avatar/avatar.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5294,7 +5294,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/zVxRGxLG/avatar.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/avatar/avatar.webp"
       },
       {
         "id": "7328af14-12f2-4b60-8307-737a83a678ac",
@@ -5411,8 +5411,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/qYmQBS3f/DC-1.png",
-        "coverImageUrl": "https://i.ibb.co/mryrxfqK/DC-Comics.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dc/DC-1.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dc/DC-Comics.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5458,7 +5458,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/HfYZgB6H/DC-Comics.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dc/DC-Comics.webp"
       },
       {
         "id": "a24d8856-1344-4ade-ac88-b436d7df0ff7",
@@ -5485,8 +5485,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/7NBFQJqF/dune.webp",
-        "coverImageUrl": "https://i.ibb.co/n8zsT3mK/dune.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dune/dune.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dune/dune.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5496,7 +5496,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/4wmJxtSp/dune.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/dune/dune.webp"
       },
       {
         "id": "a3c64c5a-ae0d-4daa-8873-fd0aca2129e9",
@@ -5523,8 +5523,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/0RDN7BDx/fast-and-Furious.webp",
-        "coverImageUrl": "https://i.ibb.co/SDYrb6Vh/fast-and-furious.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fast%20and%20furious/fast-and-furious.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fast%20and%20furious/fast-and-furious.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5534,7 +5534,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/tky94Wv/fast-and-Furious.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/fast%20and%20furious/fast-and-furious.webp"
       },
       {
         "id": "4294ea89-b933-4c60-aec2-c1ae665f1016",
@@ -5576,8 +5576,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/VYRsrM93/Harry-Potter.png",
-        "coverImageUrl": "https://i.ibb.co/XZCC66X2/harry-potter.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/harry%20potter/Harry-Potter.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/harry%20potter/harry-potter.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5593,7 +5593,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/Y4NSZPZ9/Harry-Potter.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/harry%20potter/harry-potter.webp"
       },
       {
         "id": "96e59207-5059-4f0c-a5df-868798b7f901",
@@ -5635,8 +5635,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/rKMTqmRB/hunger-Games.webp",
-        "coverImageUrl": "https://i.ibb.co/Vpx3HwLg/hunger-games.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/hunger%20games/hunger-games.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/hunger%20games/hunger-games.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5652,7 +5652,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/XrM7cTqY/Hunger-Games.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/hunger%20games/hunger-games.webp"
       },
       {
         "id": "57e01329-3ffb-4028-8f08-34766a6e76f3",
@@ -5679,8 +5679,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/d45rNLTm/Indiana-Jones-logo.webp",
-        "coverImageUrl": "https://i.ibb.co/hFB5ySRv/indiana-jones.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/indiana%20jones/Indiana-Jones-logo.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/indiana%20jones/indiana-jones.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5690,7 +5690,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/bRjMDgjD/Indiana-Jones.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/indiana%20jones/indiana-jones.webp"
       },
       {
         "id": "fc9d0ea3-9e87-4021-9761-b59737cf54c2",
@@ -5717,8 +5717,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/6Jtj5rgM/007-Logo.webp",
-        "coverImageUrl": "https://i.ibb.co/MxmWcLm9/james-bond.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/james%20bond/007-Logo.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/james%20bond/james-bond.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5728,7 +5728,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/60YKyVf9/James-Bond.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/james%20bond/james-bond.webp"
       },
       {
         "id": "4037c44f-b3cf-4bdf-819d-9385ac511dcc",
@@ -5755,8 +5755,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/2Y78KzH2/John-Wick.webp",
-        "coverImageUrl": "https://i.ibb.co/wZ6z5Bsn/john-wick.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/john%20wick/john-wick.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/john%20wick/john-wick.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5766,7 +5766,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/0p8dVWmq/John-Wick.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/john%20wick/john-wick.webp"
       },
       {
         "id": "24c0a210-5d51-4564-84cd-ddaad906fde8",
@@ -5793,8 +5793,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/nqhCkgjX/Jurassic-Park.webp",
-        "coverImageUrl": "https://i.ibb.co/ccL5MFFN/jurassic-park.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/jurassic%20park/jurassic-park.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/jurassic%20park/jurassic-park.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5804,7 +5804,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/Q7dpxr0w/Jurassic-Park.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/jurassic%20park/jurassic-park.webp"
       },
       {
         "id": "86e930d2-f9a1-40a5-ae7d-7a1f98827336",
@@ -5846,8 +5846,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/qYthcLzF/seigneur-des-anneaux.webp",
-        "coverImageUrl": "https://i.ibb.co/BHn1cPYV/seigneur-des-anneaux.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/seigneur%20des%20anneaux/seigneur-des-anneaux.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/seigneur%20des%20anneaux/seigneur-des-anneaux.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -5863,7 +5863,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/FL9ZBLKr/seigneur-des-anneaux.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/seigneur%20des%20anneaux/seigneur-des-anneaux.webp"
       },
       {
         "id": "dc0c1699-08df-4869-81dc-8e148e84c38d",
@@ -5950,8 +5950,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/bRW7xdZT/Marvel-2.webp",
-        "coverImageUrl": "https://i.ibb.co/99N5qP0C/marvel-1.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/marvel/Marvel-2.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/marvel/marvel-1.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -5985,7 +5985,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/5hbSy56t/marvel.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/marvel/marvel.webp"
       },
       {
         "id": "cf9150ff-a391-43db-be0a-298ceff644f3",
@@ -6012,8 +6012,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/ZzqD6VGC/Matrix.webp",
-        "coverImageUrl": "https://i.ibb.co/F4rzGVSL/matrix.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/matrix/matrix.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/matrix/matrix.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6023,7 +6023,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/ccGWvNPK/Matrix.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/matrix/matrix.webp"
       },
       {
         "id": "62181eaa-f71c-41c1-8fe8-9f3c0ff4a4be",
@@ -6050,8 +6050,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/7tzMy5g8/Mission-impossible.webp",
-        "coverImageUrl": "https://i.ibb.co/21pnP4C7/mission-impossible.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mission%20impossible/mission-impossible.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mission%20impossible/mission-impossible.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6061,7 +6061,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/9kj7d9S2/Mission-impossible.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/mission%20impossible/mission-impossible.webp"
       },
       {
         "id": "be5b86df-b884-479a-b5b7-9fda0d07b4c4",
@@ -6088,8 +6088,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/xqGwyMzs/monsterverse.png",
-        "coverImageUrl": "https://i.ibb.co/pSv2vvL/monsterverse.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/monsterverse/monsterverse.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/monsterverse/monsterverse.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6099,7 +6099,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/DPpT8vxr/monsterverse.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/monsterverse/monsterverse.webp"
       },
       {
         "id": "86e06f37-3530-4e52-858b-329619aec4ae",
@@ -6126,8 +6126,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/prWZtYrF/pirates-des-cara-bes.webp",
-        "coverImageUrl": "https://i.ibb.co/VWp4BsWF/pirates-des-cara-bes.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/pirate%20des%20caraibes/pirates-des-cara-bes.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/pirate%20des%20caraibes/pirates-des-cara-bes.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6137,7 +6137,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/BHBKHKLv/Pirates-des-Cara-bes.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/pirate%20des%20caraibes/pirates-des-cara-bes.webp"
       },
       {
         "id": "f8abde78-471e-4e01-836d-c1d70575228f",
@@ -6164,8 +6164,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/1SncMhm/rambo.webp",
-        "coverImageUrl": "https://i.ibb.co/Pvx5PCww/rambo.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rambo/rambo.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rambo/rambo.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6175,7 +6175,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/dJPv33tX/Rambo.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rambo/rambo.webp"
       },
       {
         "id": "aa18fecb-569e-42a7-9873-02df67c7764c",
@@ -6202,8 +6202,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/xKrJKNKW/Retour-vers-le-futur-Logo.webp",
-        "coverImageUrl": "https://i.ibb.co/WpG2HRHB/retour-vers-le-futur.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/retour%20vers%20le%20futur/Retour-vers-le-futur-Logo.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/retour%20vers%20le%20futur/retour-vers-le-futur.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6213,7 +6213,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/cmJmQKk/retour-vers-le-futur.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/retour%20vers%20le%20futur/retour-vers-le-futur.webp"
       },
       {
         "id": "f0b6b1ad-a60f-453e-b42d-e005b20d3a01",
@@ -6255,8 +6255,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/kgNwM7dW/Rocky-Logo.png",
-        "coverImageUrl": "https://i.ibb.co/RTNzJ3Ts/rocky.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rocky/Rocky-Logo.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rocky/rocky.webp",
         "catalogSources": [
           {
             "type": "all",
@@ -6272,7 +6272,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/qwNGw1k/Rocky.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/rocky/rocky.webp"
       },
       {
         "id": "c3634476-9a42-4e99-a50f-4a04ba56fdab",
@@ -6314,8 +6314,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/YBx8rVPR/Star-trek.webp",
-        "coverImageUrl": "https://i.ibb.co/0R306N0T/star-trek.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20trek/star-trek.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20trek/star-trek.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -6331,7 +6331,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/VWCDtNpv/Star-trek.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20trek/star-trek.webp"
       },
       {
         "id": "239fd6ca-ed2b-482e-8545-17ffc84c52dd",
@@ -6388,8 +6388,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/kVg1zYzk/Star-Wars-Logo.png",
-        "coverImageUrl": "https://i.ibb.co/7JvXLmQZ/star-wars.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20wars/Star-Wars-Logo.png",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20wars/star-wars.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -6411,7 +6411,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/QFy34sWR/Star-Wars.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/star%20wars/star-wars.webp"
       },
       {
         "id": "591659c8-1bf4-4b00-b81a-6f5452653080",
@@ -6453,8 +6453,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/RpDjMdXt/transformers.webp",
-        "coverImageUrl": "https://i.ibb.co/Dg7Qv6Yj/transformers.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/transformers/transformers.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/transformers/transformers.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -6470,7 +6470,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/Q7tnxBdX/transformers.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/transformers/transformers.webp"
       },
       {
         "id": "c710bb38-ab16-4a9b-836a-629674784e2f",
@@ -6527,8 +6527,8 @@
         "coverEmoji": null,
         "focusGifUrl": null,
         "heroVideoUrl": null,
-        "titleLogoUrl": "https://i.ibb.co/G4qxJhLn/x-men.webp",
-        "coverImageUrl": "https://i.ibb.co/Gf23XWRP/x-men.webp",
+        "titleLogoUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/x%20men/x-men.webp",
+        "coverImageUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/x%20men/x-men.webp",
         "catalogSources": [
           {
             "type": "Films",
@@ -6550,7 +6550,7 @@
           }
         ],
         "focusGifEnabled": false,
-        "heroBackdropUrl": "https://i.ibb.co/LX57SrFL/X-Men.webp"
+        "heroBackdropUrl": "https://cdn.jsdelivr.net/gh/Fubalt/nuvio-collection@main/x%20men/x-men.webp"
       }
     ],
     "pinToTop": false,
